@@ -5,8 +5,6 @@ import java.util.*;
 public class Program1 {
     public static int findkthlargestelement(int arr[], int k) {
         Arrays.sort(arr);
-
-        // Return the Kth largest element (index is size - k)
         return arr[arr.length - k];
 
     }
