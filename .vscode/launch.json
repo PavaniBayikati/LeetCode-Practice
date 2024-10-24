@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Program1",
+            "request": "launch",
+            "mainClass": "Program1",
+            "projectName": "LeetCode-Practice_faa45503"
+        },
+        {
+            "type": "java",
             "name": "ReversedArray",
             "request": "launch",
             "mainClass": "ReversedArray",
