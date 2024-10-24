@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p",
+            "request": "launch",
+            "mainClass": "p",
+            "projectName": "LeetCode-Practice_faa45503"
+        },
+        {
+            "type": "java",
             "name": "Program1",
             "request": "launch",
             "mainClass": "Program1",
