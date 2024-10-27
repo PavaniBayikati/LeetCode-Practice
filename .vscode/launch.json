@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sorting_numbers",
+            "request": "launch",
+            "mainClass": "sorting_numbers",
+            "projectName": "LeetCode-Practice_faa45503"
+        },
+        {
+            "type": "java",
+            "name": "Arrayreversal2",
+            "request": "launch",
+            "mainClass": "Arrayreversal2",
+            "projectName": "LeetCode-Practice_faa45503"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReversal",
+            "request": "launch",
+            "mainClass": "ArrayReversal",
+            "projectName": "LeetCode-Practice_faa45503"
+        },
+        {
+            "type": "java",
             "name": "p",
             "request": "launch",
             "mainClass": "p",
