@@ -4,7 +4,6 @@ public class intersectionofarrays {
     public static int[] intersection(int[] nums1, int[] nums2) {
         // Create a List to store the intersection results
         List<Integer> intersection = new ArrayList<>();
-
         // Iterate through each element in the first array
         for (int i = 0; i < nums1.length; i++) {
             // Check if the current element is in the intersection list
