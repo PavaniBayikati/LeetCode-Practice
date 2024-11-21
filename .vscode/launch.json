@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "LeetCode-Practice_faa45503"
+        },
+        {
+            "type": "java",
             "name": "Averagesalary",
             "request": "launch",
             "mainClass": "Averagesalary",
