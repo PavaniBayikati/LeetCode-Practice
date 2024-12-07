@@ -23,7 +23,7 @@ class Main {
             }
         }
             
-        System.out.println("The sorted array after selection sort is:-");
+        System.out.println("The sorted array after Bubble sort is:-");
         for (int k = 0; k < n; k++) {
             System.out.print(arr[k] + " ");
         }
